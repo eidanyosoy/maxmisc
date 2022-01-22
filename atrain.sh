@@ -8,8 +8,8 @@ IFS=$'\n\t'
 #________ VARS
 
 APP=atrain
-APPDIR=/opt
-NETWORK=saltbox
+APPDIR=/opt/appdata
+NETWORK=proxy
 
 #________ DONT CHANGE
 
